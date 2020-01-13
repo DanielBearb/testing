@@ -1,5 +1,5 @@
 
-public class Main {
+public class Arrays {
 	public static void main(String[] args) {
 		int[] values = new int[11];
 		double total = 0;
